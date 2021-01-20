@@ -1,0 +1,6 @@
+numpy version 1.19.5
+pandas version 1.2.1
+sklearn version 0.24.0
+matplotlib version 3.3.2
+warnings version 3.9.1
+scipy version 1.6.0
