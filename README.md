@@ -6,6 +6,8 @@ This project has been prepared by the M: K: S group as the final assignment of t
 
 ![alt text](https://github.com/soztuanakursun/Data-Mining-Final-/blob/main/images/coverpage.jpg?raw=true)
 
+---
+
 
 
 
