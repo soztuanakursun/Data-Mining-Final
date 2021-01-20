@@ -16,7 +16,7 @@ This project has been prepared by the M: K: S group as the final assignment of t
 Before reading the ReadMe file;
 All files related to the project have been collected in this repository.
 * ### [requirements.txt](https://github.com/soztuanakursun/Data-Mining-Final-/blob/main/requirements.txt)
-> ***The name and version values of libraries used for the project.***
+> ***The name and version values of libraries and programing Language used for the project.***
 * ### [İmages](https://github.com/soztuanakursun/Data-Mining-Final-/tree/main/images)
 > ***All images used in the project and report***
 * ### [Reports File](https://github.com/soztuanakursun/Data-Mining-Final-/tree/main/Report%20Files) 
