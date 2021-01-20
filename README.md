@@ -1,4 +1,4 @@
-# DATA MINIG FINAL PROJECT : D I A B E T E S
+# DATA MINING FINAL PROJECT : D I A B E T E S
 
 This project has been prepared by the M: K: S group as the final assignment of the dataming course.
 
