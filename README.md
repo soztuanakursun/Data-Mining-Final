@@ -26,7 +26,7 @@ All files related to the project have been collected in this repository.
 
 ---
 1. **Abstract**
-2. **Team Information adn Team Members**
+2. **Team Information and Team Members**
 3. **Description The Project**
 4. **Assigments**
    - *Editing Data*
