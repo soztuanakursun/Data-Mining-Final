@@ -1,4 +1,4 @@
-# DATA MINIG FINAL PROJECT : D I A B E T E S
+# DATA MINING FINAL PROJECT : D I A B E T E S
 
 This project has been prepared by the M: K: S group as the final assignment of the dataming course.
 
@@ -26,7 +26,7 @@ All files related to the project have been collected in this repository.
 
 ---
 1. **Abstract**
-2. **Team Information adn Team Members**
+2. **Team Information and Team Members**
 3. **Description The Project**
 4. **Assigments**
    - *Editing Data*
@@ -136,6 +136,10 @@ In this section, we compared classifications performance using pyplot.plot and w
 
 
 ## 4.5-)Sub-tasks Requested From Us
+First, we made clustering in our project, the purpose of which is that we made predictions about outcome, that is, diabetes or not, by connecting with other features without knowing the output,and then we printed the accuracy score.
+And then we write the codes for the importance order of the features that trigger diabetes and then drew them.Thus, we see which feature affects diabetes more.(is glucose)The last sub-task was to replace miss data, ie: data with 0 output, with linear regression.By doing Linear regression, we filled the 0 values once with mean, and this time we changed it by regression.
+
  
 
 ## Conclusion
+As a result, at the end of this assignment, as I mentioned at all stages,everything gets easier with machine learning. We make our lives easier with machine learning, especially in areas that are important such as health and where processes take time.Instead of doing a lot of tests as in the past, we can find out whether people are diabetes or not by looking at a few features, at least what we say is valid for this project.
