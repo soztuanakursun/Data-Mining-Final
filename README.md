@@ -1,7 +1,16 @@
 # DATA MINIG FINAL PROJECT : D I A B E T E S
 
 This project has been prepared by the M: K: S group as the final assignment of the dataming course.
+
 ---
+
+![alt text](https://github.com/soztuanakursun/Data-Mining-Final-/blob/main/images/coverpage.jpg?raw=true)
+
+
+
+
+
+
 Before reading the ReadMe file;
 All files related to the project have been collected in this repository.
 * ### [requirements.txt](https://github.com/soztuanakursun/Data-Mining-Final-/blob/main/requirements.txt)
@@ -76,6 +85,7 @@ We will predict whether a diabetic patient will be sick or not. We have a file c
 First of all, we examined our data and identified its deficiencies. We provide outputs by writing some commands with the Python programming language.
 
 ![alt text](https://github.com/soztuanakursun/Data-Mining-Final-/blob/main/images/head.png?raw=true)
+
 ---
 
 ![alt text](https://github.com/soztuanakursun/Data-Mining-Final-/blob/main/images/info.png?raw=true)
