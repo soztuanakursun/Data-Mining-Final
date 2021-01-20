@@ -1,6 +1,7 @@
-we developed this project using the popular Python Programming language today.
+we developed this project using the popular 
+Python Programming language and Colab notebooks.
 
-
+Python Programing Language version 3.9.1
 numpy version 1.19.5
 pandas version 1.2.1
 sklearn version 0.24.0
